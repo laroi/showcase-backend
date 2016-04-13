@@ -1,0 +1,13 @@
+{
+    "name":"showcase-app-backend",
+    "version":"0.0.1",
+    "dependencies" : {
+        "express":"4.13.4",
+        "express-logger":"0.0.3",
+        "cookie-parser":"1.4.1",
+        "body-parser":"1.15.0",
+        "method-override":"2.3.5",
+        "express-session":"1.13.0",
+        "cradle":"0.7.1"
+    }
+}
